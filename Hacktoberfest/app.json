@@ -1,0 +1,10 @@
+{
+  "name": "fithut",
+  "displayName": "fithut",
+  "expo": {
+    "name": "fithut",
+    "slug": "fithut",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
